@@ -1,2 +1,64 @@
-# edulumous-random-quote-generator
-Interactive Random Quote Generator with animated background - Edulumous Internship Project
+# 📜 Edulumous Random Quote Generator
+
+An interactive Random Quote Generator web application with an animated background, built as part of the **Edulumous Internship Project**.
+
+---
+
+## 🚀 Live Demo
+👉 https://tanaz786.github.io/edulumous-random-quote-generator/
+
+---
+
+## 📌 Project Description
+This project generates random inspirational quotes at the click of a button.  
+It features a clean user interface, smooth animations, and dynamic quote updates using JavaScript.
+
+The project was developed with the assistance of **Amazon Q**, which helped in improving code structure, logic implementation, and overall development efficiency.
+
+The main goal of this project is to practice **HTML, CSS, and JavaScript** fundamentals while building a real-world interactive web application.
+
+---
+
+## 🛠️ Technologies & Tools Used
+- **HTML5** – Structure of the webpage  
+- **CSS3** – Styling and animated background  
+- **JavaScript** – Logic for random quote generation  
+- **Amazon Q** – AI-powered development assistance  
+
+---
+
+## ✨ Features
+- Random quote generation on button click  
+- Animated and visually appealing background  
+- Responsive design for different screen sizes  
+- Simple and user-friendly interface  
+
+---
+
+## 📂 Project Structure
+edulumous-random-quote-generator/
+│
+├── index.html      # Main HTML file
+├── style.css       # Styling and animations
+├── script.js       # JavaScript logic
+└── README.md       # Project documentation
+
+---
+
+## 🎯 Learning Outcomes
+- Improved understanding of DOM manipulation  
+- Hands-on experience with JavaScript functions  
+- Better knowledge of responsive UI design  
+- Experience using **Amazon Q** for guided development  
+- Practical use of GitHub Pages for deployment  
+
+---
+
+## 👩‍💻 Author
+**Tanaz Nazneen**  
+Edulumous Intern  
+
+---
+
+## 📜 License
+This project is for educational and internship purposes.

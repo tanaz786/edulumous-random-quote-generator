@@ -10,12 +10,12 @@ An interactive Random Quote Generator web application with an animated backgroun
 ---
 
 ## 📌 Project Description
-This project generates random inspirational quotes at the click of a button.  
+This project generates random inspirational quotes with a single click.  
 It features a clean user interface, smooth animations, and dynamic quote updates using JavaScript.
 
 The project was developed with the assistance of **Amazon Q**, which helped in improving code structure, logic implementation, and overall development efficiency.
 
-The main goal of this project is to practice **HTML, CSS, and JavaScript** fundamentals while building a real-world interactive web application.
+The main goal of this project is to practice the fundamentals of **HTML, CSS, and JavaScript** while building a real-world interactive web application.
 
 ---
 
@@ -36,13 +36,14 @@ The main goal of this project is to practice **HTML, CSS, and JavaScript** funda
 ---
 
 ## 📂 Project Structure
+```text
 edulumous-random-quote-generator/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # Styling and animations
 ├── script.js       # JavaScript logic
-└── README.md       # Project documentation
-
+└── README.md       # Project documentation 
+```
 ---
 
 ## 🎯 Learning Outcomes

@@ -50,7 +50,7 @@ edulumous-random-quote-generator/
 - Improved understanding of DOM manipulation  
 - Hands-on experience with JavaScript functions  
 - Better knowledge of responsive UI design  
-- Experience using **Amazon Q** for guided development  
+- Experience using **AI Tools** for guided development  
 - Practical use of GitHub Pages for deployment  
 
 ---

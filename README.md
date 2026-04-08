@@ -23,7 +23,7 @@ The main goal of this project is to practice the fundamentals of **HTML, CSS, an
 - **HTML5** – Structure of the webpage  
 - **CSS3** – Styling and animated background  
 - **JavaScript** – Logic for random quote generation  
-- **Amazon Q** – AI-powered development assistance  
+- **AI Tools** – AI-powered development assistance  
 
 ---
 
